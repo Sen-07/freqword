@@ -1,7 +1,9 @@
 # Assignment 1: Frequent Patterns Problem
 
 This project contains a Python code that implements an algorithm to find the most frequent pattern occurrence in a text sequence.
+
 It takes 2 inputs: text sequence & the value of k, which represents the pattern length.
+
 The program then provides the most frequent patterns of length k in the given text sequence.
 
 
