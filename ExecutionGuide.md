@@ -13,16 +13,17 @@ To run the code, you need to have Python-3.11 installed on your system. Follow t
 
 1. Download the attatched ZIP file or Clone the repository to your machine using the following command:
 
-
+   ```shell
    git clone https://github.com/MYREPO.git
 
 2. Open Assignment_1 or Navigate to the project directory using the following command:
    
-
+   ```shell
    cd Assignment_1
 
 3. Run the program by executing the Python script using terminal:
 
-    python frequentWordsProblem.py
+   ```shell
+   python frequentWordsProblem.py
 
 NOTE: You might easily run it using your prefered IDE as well. e.g., VS Code, PyCharm
