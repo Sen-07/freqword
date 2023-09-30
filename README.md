@@ -23,3 +23,5 @@ To run the code, you need to have Python-3.11 installed on your system. Follow t
 
    ```shell
     python frequentWordsProblem.py
+
+NOTE: You might easily run it using your prefered IDE as well. e.g., VS Code, PyCharm
